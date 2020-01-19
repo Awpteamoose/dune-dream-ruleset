@@ -1,5 +1,4 @@
 # General ruleset description:
-------------------------------
 * WBC as base
 * GF9-style thopter stealing
 * Fremen changes:
@@ -17,7 +16,6 @@
 * Guild changes: GF9-style alliance power i.e. fremen ally can't ship from reserves and nobody can ship back to reserves
 
 # Misc rulings that are not specified or underspecified in either WBC or GF9:
------------------------------------------------------------------------------
 * Harkonnen kidnapping: hark player looks at the leader before deciding stealing/killing (implied in WBC but not stated explicitly)
 * Can't play a karama to take a card if hand is full (also WBC ruling, but not listed, implied in GF9 too)
 * Harkonnen can't play a card **after** winning a bid to free up space for the bonus card
@@ -31,7 +29,6 @@
 	* If BG bids infinity and plays wlc and someone else plays a karama to deny that - the BG are considered to have made an invalid bid and the bidding is restarted without them.
 
 # Time limits:
---------------
 * Hard 10 second time limit during bidding
 	* If you make a deal with Atr or whoever, look at the card first, bid within your allotted time, pay Atr after the bidding is over
 * 2 minutes before bidding phase to make deals with Atr or Emp
