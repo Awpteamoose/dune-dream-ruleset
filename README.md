@@ -1,5 +1,5 @@
 # General ruleset description:
-* WBC as base
+* [WBC](http://www.boardgamers.org/wbc19/previews/dun.html) as base
 * GF9-style thopter stealing
 * Fremen changes:
 	* GF9-style can ship, move or worm-ride into/out/through storm (to give back a little bit of lost value due to thopter stealing)
