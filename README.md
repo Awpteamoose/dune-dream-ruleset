@@ -6,7 +6,7 @@
 	* Alliance ability: worm protection + all spice spent by ally on fighting is reclaimed by the ally during collection phase (effectively a self-bribe)
 * Karama changes:
 	* GF9 harkonnen karama (once per game, take whole hand), but must be played at the start of Battle Phase (as in WBC)
-	* Emperor karama can revive sardaukar without respecting 1/turn limit (Ghola card is unaffected though)
+	* Emperor karama can revive sardaukar without respecting 1/turn limit altogether i.e. revive 3 sardaukar if desired
 	* You can deny Emperor alliance power (spice sharing) for one whole phase (i.e. you can prevent Emp from powering up their ally during battle), this doesn't prevent normal ally spice sharing tho e.g. paying for shipping or bids
 	* You can deny WBC Emperor non-ally subsidies for the whole bidding phase
 	* Atreides special description is as it is in GF9 i.e. the battle plan is revealed only to Atreides, but it may still be done multiple times per game
@@ -27,6 +27,10 @@
 * While not required to create conditions that will fulfill the TT answer, the TT victim is not allowed to make any action that would definitely prevent the answer from coming true. Example: Emperor asks BG "will you play a lasgun in Arrakeen this turn if I ship/move into Arrakeen" - they answer "yes", then the Emperor ships some troops to Arrakeen. Bg are **not allowed to** declare coexistance (aka flip) because that would prevent them from fulfilling their answer.
 * You can't play karama when someone's about to win the bid to take the card. You must be the winner of the bid to be eligible to play karama in that fashion. If it's your turn to bid you can, of course, play karama to get the card though as you're effectively bidding infinity.
 	* If BG bids infinity and plays wlc and someone else plays a karama to deny that - the BG are considered to have made an invalid bid and the bidding is restarted without them.
+* The Ghola card revivals can include at most 1 star token (fedaykin/sardaukar) regardless whether you already have or will revive a star this turn.
+	
+# Completely new stuff:
+* If Harkonnen draws 2 or more traitors of their own, they may show their traitor hand and request a traitor redeal.
 
 # Time limits:
 * Hard 10 second time limit during bidding
@@ -36,8 +40,19 @@
 * 2 minutes per nexus
 * 2 minutes per ship&move - if exceeded assumed to have passed
 * 2 minutes per battle  - if exceeded assumed to have played lowest leader and dialed 0
+* 30 seconds per BG voice
+* 30 seconds per Atreides prescience
 * Before movement phase, 2 minutes are allocated to discuss
 * Before battle phase, 2 minutes are allocated to discuss
-* Players will start with 1 time chip and get an extra 1 each collection phase, time chips can be used to parlay with someone for 2 minutes (only the initiator pays) or to extend anything but ongoing bidding by extra 2 minutes
-* Players can spend a chip to parlay at any point outside of an ongoing bidding i.e. including during pre-bidding 30 seconds, the timer of whatever phase is put on pause
+
+# Time Chips:
+* Players will start with 1 Time Chip and get an extra 1 (or 2 if have none) each collection phase, Time Chips can be used to parlay with someone for 1 minute (anybody can pay 1 chip, including a non-participant) or to extend anything but ongoing bidding by an extra 1 minute
+* Players can spend a chip to parlay at any point outside of an ongoing bidding i.e. including during pre-bidding 30 seconds, the timer of whatever phase is put on pause and continued once the chip time is spent
+	* Basically you don't have to wait until the last second to chip
 * Time chips can not be exchanged or traded themselves, but deals regarding their usage might be made e.g. I'll pay you 2 spice if you spend a chip to parlay with me
+* Players can keep spending time chips to prolong a phase or a parlay
+* Whoever spent the time chip gets speaking priority
+* Players other than the ones that are being paid for to parlay may also speak privately but must return as soon as the parlaying players are done, regardless of how much time is left
+	* If you want to parlay uninterrupted - use a chip
+* During a battle, whoever isn't ready must spend a time chip to extend the timer, in the case that neither player is ready - both must spend a time chip and whoever is ready first may reclaim their spent chip
+	* Basically, whoever's causing the delay has to chip
