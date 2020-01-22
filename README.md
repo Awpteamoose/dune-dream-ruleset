@@ -10,6 +10,8 @@
 	* You can deny Emperor alliance power (spice sharing) for one whole phase (i.e. you can prevent Emp from powering up their ally during battle), this doesn't prevent normal ally spice sharing tho e.g. paying for shipping or bids
 	* You can deny WBC Emperor non-ally subsidies for the whole bidding phase
 	* Atreides special description is as it is in GF9 i.e. the battle plan is revealed only to Atreides, but it may still be done multiple times per game
+	* You can not karama Emperor's spice sharing
+	* If one were to karama Emperor receiving money for a bid, the money goes to the bank (same as in GF9)
 * If due to shitty stronghold two solo players control 3 strongholds, whoever controls the real strongholds wins
 * GF9-style traitor wins (victor loses nothing, including not being able to discard CH or WLC)
 * Bene Gesserit place a bonus troop anywhere during setup (as in GF9)
