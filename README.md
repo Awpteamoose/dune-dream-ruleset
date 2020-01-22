@@ -10,7 +10,6 @@
 	* You can deny Emperor alliance power (spice sharing) for one whole phase (i.e. you can prevent Emp from powering up their ally during battle), this doesn't prevent normal ally spice sharing tho e.g. paying for shipping or bids
 	* You can deny WBC Emperor non-ally subsidies for the whole bidding phase
 	* Atreides special description is as it is in GF9 i.e. the battle plan is revealed only to Atreides, but it may still be done multiple times per game
-	* You can not karama Emperor's spice sharing
 	* If one were to karama Emperor receiving money for a bid, the money goes to the bank (same as in GF9)
 * If due to shitty stronghold two solo players control 3 strongholds, whoever controls the real strongholds wins
 * GF9-style traitor wins (victor loses nothing, including not being able to discard CH or WLC)
@@ -30,6 +29,7 @@
 * You can't play karama when someone's about to win the bid to take the card. You must be the winner of the bid to be eligible to play karama in that fashion. If it's your turn to bid you can, of course, play karama to get the card though as you're effectively bidding infinity.
 	* If BG bids infinity and plays wlc and someone else plays a karama to deny that - the BG are considered to have made an invalid bid and the bidding is restarted without them.
 * The Ghola card revivals can include at most 1 star token (fedaykin/sardaukar) regardless whether you already have or will revive a star this turn.
+* You can not karama Emperor's spice sharing
 	
 # Completely new stuff:
 * If Harkonnen draws 2 or more traitors of their own, they may show their traitor hand and request a traitor redeal.
