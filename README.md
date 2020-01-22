@@ -6,7 +6,7 @@
 	* Alliance ability: worm protection + all spice spent by ally on fighting is reclaimed by the ally during collection phase (effectively a self-bribe)
 * Karama changes:
 	* GF9 harkonnen karama (once per game, take whole hand), but must be played at the start of Battle Phase (as in WBC)
-	* Emperor karama can revive sardaukar without respecting 1/turn limit altogether i.e. revive 3 sardaukar if desired
+	* Emperor karama can revive sardaukar without respecting 1/turn limit altogether i.e. revive 3 sardaukar if desired (this is a WBC ruling but it isn't written down and it goes against the RAW)
 	* You can deny Emperor alliance power (spice sharing) for one whole phase (i.e. you can prevent Emp from powering up their ally during battle), this doesn't prevent normal ally spice sharing tho e.g. paying for shipping or bids
 	* You can deny WBC Emperor non-ally subsidies for the whole bidding phase
 	* Atreides special description is as it is in GF9 i.e. the battle plan is revealed only to Atreides, but it may still be done multiple times per game
