@@ -63,6 +63,13 @@
 * Call no traitors
 * Use no faction powers except Kwisatz, Sardaukar or Fedaykin
 
+----
+
+## Safe leader
+* A leader that was among the initial selection of 4 potential traitors and **was not picked**
+
+----
+
 # Time limits:
 * Hard 10 second time limit during bidding
 	* If you make a deal with Atr or whoever, look at the card first, bid within your allotted time, pay Atr after the bidding is over
