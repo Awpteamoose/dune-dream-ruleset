@@ -66,7 +66,7 @@
 ----
 
 ## Safe leader
-* A leader that was among the initial selection of 4 potential traitors and **was not picked**
+* An alive leader that was among the initial selection of 4 potential traitors and **was not picked**
 
 ----
 
