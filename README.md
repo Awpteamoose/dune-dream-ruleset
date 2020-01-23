@@ -35,9 +35,33 @@
 	* If BG bids infinity and plays wlc and someone else plays a karama to cancel that - the BG are considered to have made an invalid bid and the bidding is restarted without them.
 * The Ghola card revivals can include at most 1 star token (fedaykin/sardaukar) regardless whether you already have or will revive a star this turn.
 * You may revive a leader at the end of your ship&move if you don't have any leaders available (not counting CH)
+* Only Atreides is allowed to keep written records and they may write about anything, other players are not allowed to keep any written records
+* No player may use any electronic devices for any reason unless everybody at the table agrees
+* Harkonnen's ally must allow the traitor to be revealed in their battle even if Harkonnen wants to
 	
 # Completely new stuff:
 * If Harkonnen draws 2 or more traitors of their own, they may show their traitor hand and request a traitor redeal.
+
+# Some enforcable terminology:
+
+## Thrown fight
+### The thrower
+* Lowest leader or Cheap Hero
+	* The thrower selects their leader first
+	* Cheap Hero only if they wish, the winner may not demand it, even if they can't technically win the fight e.g. because the lowest leader is 5 and the winner can't match it
+* Dial 0
+* Play defences
+* Play WLCs
+
+### The winner
+* Any leader
+* Dial anything
+* Play defences
+* Play WLCs
+
+### Both
+* Call no traitors
+* Use no faction powers except Kwisatz, Sardaukar or Fedaykin
 
 # Time limits:
 * Hard 10 second time limit during bidding
