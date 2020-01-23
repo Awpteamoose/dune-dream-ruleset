@@ -63,6 +63,9 @@
 * Call no traitors
 * Use no faction powers except Kwisatz, Sardaukar or Fedaykin
 
+### Notes
+* Players can always renegotiate the deal with amendments e.g. the thrower can ask to play a higher leader, 
+
 ----
 
 ## Safe leader
