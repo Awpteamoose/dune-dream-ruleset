@@ -50,7 +50,7 @@
 * Lowest leader or Cheap Hero
 	* The thrower selects their leader first
 	* Cheap Hero only if they wish, the winner may not demand it, even if they can't technically win the fight e.g. because the lowest leader is 5 and the winner can't match it
-* Dial 0
+* Dials whatever the winner asks, up to full unspiced force and may not spend spice on fighting
 * Play defences
 * Play WLCs
 
