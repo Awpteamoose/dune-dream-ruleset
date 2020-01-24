@@ -41,6 +41,7 @@
 	
 # Completely new stuff:
 * If Harkonnen draws 2 or more traitors of their own, they may show their traitor hand and request a traitor redeal.
+* Making illegal bids is allowed, but if you can't pay and nobody is willing to subsidise - you must keep your spice public until the end of the turn and you are not allowed to make illegal bids for the rest of the bidding.
 
 # Some enforcable terminology:
 
@@ -79,12 +80,14 @@
 * 2 minutes before bidding phase to make deals with Atr or Emp, if both Atr & Emp agree this is foregone
 * 30 seconds prior to each opening bid to make deals with Atr or Emp, if both Atr & Emp agree this is foregone
 * 2 minutes per nexus
+* 30 seconds for BG to decide where and how to flip
+* 30 seconds for SG to decide if they want to interject
 * 2 minutes per ship&move - if exceeded then the active player is assumed to have passed
 * 2 minutes per battle  - if exceeded then the active player is assumed to have played lowest leader and dialed 0
 * 30 seconds per BG voice
-* 30 seconds per Atreides prescience
-* Before movement phase, 2 minutes are allocated to discuss
-* Before battle phase, 2 minutes are allocated to discuss
+* 30 seconds per Atreides prescience and 30 seconds per prescience Answer
+* Before movement phase, 1 minute is allocated to discuss for free
+* Before battle phase, 1 minute are allocated to discuss for free
 
 # Time Chips:
 * Players will start with 2 Time Chips and get 1 extra each collection phase, up to a maximum of 4
