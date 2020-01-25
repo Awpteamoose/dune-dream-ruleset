@@ -17,6 +17,7 @@
 * Guild changes: GF9-style alliance power i.e. fremen ally can't ship from reserves and nobody can ship back to reserves
 * Players announce how many treachery cards they hold at the start of the bidding round and in the case they become full. Other than that, players aren't required to keep the number of treachery cards they hold as public. (tl;dr same as in GF9, in WBC/AH players keep the number of cards public throughout the bidding)
 * Allies may not make binding deals, but can still exchange spice during the collection phase
+* GF9-style CHOAM Charity aka you may claim charity if you have 0 or 1 and you go up to 2
 
 # Misc rulings that are not specified or underspecified in either WBC or GF9:
 * Harkonnen kidnapping:
