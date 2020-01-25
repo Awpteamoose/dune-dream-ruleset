@@ -9,7 +9,7 @@
 	* Emperor karama can revive sardaukar without respecting 1/turn limit altogether i.e. revive 3 sardaukar if desired (this is a WBC ruling but it isn't written down and it goes against the RAW)
 	* You can deny Emperor alliance power (spice sharing) for one whole phase (i.e. you can prevent Emp from powering up their ally during battle), this doesn't prevent normal ally spice sharing tho e.g. paying for shipping or bids
 	* You can deny WBC Emperor non-ally subsidy power for the whole bidding phase
-	* Atreides karama special is as it is in GF9 i.e. the battle plan is revealed only to Atreides rather than to everyone, no 1/game limit
+	* Atreides karama special is as it is in GF9 i.e. the battle plan is revealed only to Atreides rather than to everyone (unlike prescience answer), no 1/game limit
 	* If one were to karama Emperor receiving money for a bid, the money goes to the bank (same as in GF9, in WBC no payment is made)
 * If due to Shield Wall stronghold two solo players control 3 strongholds, whoever controls the real strongholds wins
 * GF9-style traitor wins (victor loses nothing, including not being able to discard CH or WLC)
@@ -38,6 +38,7 @@
 * Only Atreides is allowed to keep written records and they may write about anything, other players are not allowed to keep any written records
 * No player may use any electronic devices for any reason unless everybody at the table agrees
 * Harkonnen's ally must allow the traitor to be revealed in their battle even if Harkonnen wants to
+* Allies may enter the same territory if they are separated by storm and thus won't battle
 	
 # Completely new stuff:
 * If Harkonnen draws 2 or more traitors of their own, they may show their traitor hand and request a traitor redeal.
