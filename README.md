@@ -18,6 +18,8 @@
 * Players announce how many treachery cards they hold at the start of the bidding round and in the case they become full. Other than that, players aren't required to keep the number of treachery cards they hold as public. (tl;dr same as in GF9, in WBC/AH players keep the number of cards public throughout the bidding)
 * Allies may not make binding deals, but can still exchange spice during the collection phase
 * GF9-style CHOAM Charity aka you may claim charity if you have 0 or 1 and you go up to 2
+* Allies may enter the same territory as long as there won't be a battle, regardless whether the allies will move out or not
+	* This covers Polar Sink, territories split by storm, BG advisors, etc
 
 # Misc rulings that are not specified or underspecified in either WBC or GF9:
 * Harkonnen kidnapping:
@@ -39,7 +41,6 @@
 * Only Atreides is allowed to keep written records and they may write about anything, other players are not allowed to keep any written records
 * No player may use any electronic devices for any reason unless everybody at the table agrees
 * Harkonnen's ally must allow the traitor to be revealed in their battle even if Harkonnen wants to
-* Allies may enter the same territory if they are separated by storm and thus won't battle
 	
 # Completely new stuff:
 * If Harkonnen draws 2 or more traitors of their own, they may show their traitor hand and request a traitor redeal.
