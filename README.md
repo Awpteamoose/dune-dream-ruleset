@@ -20,6 +20,12 @@
 * GF9-style CHOAM Charity aka you may claim charity if you have 0 or 1 and you go up to 2
 * Allies may enter the same territory as long as there won't be a battle, regardless whether the allies will move out or not
 	* This covers Polar Sink, territories split by storm, BG advisors, etc
+* Alliance power changes to sidestep secrecy rules vagueness:
+	* In addition to normal alliance power, Atreides may:
+		* Grant bidding prescience to their ally
+		* Grant spice blow prescience to their ally
+	* In addition to normal alliance power, Fremen may:
+		* Grant storm knowledge to their ally
 
 # Misc rulings that are not specified or underspecified in either WBC or GF9:
 * Harkonnen kidnapping:
