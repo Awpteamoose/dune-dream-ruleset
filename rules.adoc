@@ -1,16 +1,12 @@
-:url-home: https://asciidoctor.org
-:link-docs: https://asciidoctor.org/docs[documentation]
-:summary: Asciidoctor is a mature, plain-text document format for \
-       writing notes, articles, documentation, books, and more. \
-       It's also a text processor & toolchain for translating \
-       documents into various output formats (i.e., backends), \
-       including HTML, DocBook, PDF and ePub.
-:checkedbox: pass:normal[{startsb}&#10004;{endsb}]
+:fremen: image:https://i.imgur.com/fp2FdZp.png
+:hark: image:https://i.imgur.com/YAkKOrk.png
+:atr: image:https://i.imgur.com/30GW1GA.png
+:guild: image:https://i.imgur.com/pyNsXf5.png
+:emp: image:https://i.imgur.com/T0nngm9.png
+:bg: image:https://i.imgur.com/qGvZQbV.png
 
-Check out {url-home}[Asciidoctor]!
+{fremen}[50,50,float="right",align=center] oi it work
 
-{summary}
+{hark}[]
 
-Be sure to read the {link-docs} too!
-
-{checkedbox} That's done!
+{atr}[]
